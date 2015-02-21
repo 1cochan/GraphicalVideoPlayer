@@ -1,0 +1,3 @@
+[submodule "SGLib"]
+	path = SGLib
+	url = git@1cochan.github.com:1cochan/SGLib.git
